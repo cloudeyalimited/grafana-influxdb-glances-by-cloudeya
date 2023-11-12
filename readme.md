@@ -40,7 +40,7 @@ For setup instructions, click [here](setup.md).
 
 ## Support
 
-[Email](mailto:tech@cloudeya.org) support is available to Amazon Web Services Marketplace Customers. We do not offer refunds, but you may terminate the LAMP Stack at any time.
+[Email](mailto:tech@cloudeya.org) support is available to Amazon Web Services Marketplace Customers. We do not offer refunds, but you may terminate the Grafana, InfluxDB and Glances (GIG) by Cloudeya Stack at any time.
 
 ## Troubleshooting
 

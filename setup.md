@@ -56,7 +56,7 @@ password: admin
 
 ## Support
 
-[Email](mailto:tech@cloudeya.org) support is available to Amazon Web Services Marketplace Customers. We do not offer refunds, but you may terminate your Jankins Stack by Cloudeya at any time.
+[Email](mailto:tech@cloudeya.org) support is available to Amazon Web Services Marketplace Customers. We do not offer refunds, but you may terminate your Grafana, InfluxDB and Glances (GIG) by Cloudeya Stack by Cloudeya at any time.
 
 ## License
 
