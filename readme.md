@@ -22,7 +22,7 @@ InfluxDB
 
 Glances
 
-+ Comprehensive System Monitoring: Glances provide an at-a-glance view of system resources, including CPU, memory, disk usage, and network activity.
++ System Monitoring: Glances provide an at-a-glance view of system resources, including CPU, memory, disk usage, and network activity.
 + Cross-Platform Compatibility: Works across multiple platforms, including Linux, Windows, and MacOS, offering versatile system monitoring solutions.
 + Real-Time Updates and Alerts: Offers real-time monitoring with alerting capabilities, enabling prompt response to system performance issues or anomalies.
 
